@@ -1,0 +1,165 @@
+body{
+    background-color:rgba(230, 230, 230, 0.397);
+    max-width: 1000px;
+}
+*{
+    margin: auto;
+}
+#header{
+    width: 350px;
+    height: 100px;
+    font-size: 55px;
+    align-content: center;
+    text-align: center;
+    color: blue;
+    margin-top: 8px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#mother{
+    background-color: white;
+    width: 450px;
+    height: 560px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    box-shadow: 0px 0px 6px 0px rgb(179, 174, 174)
+}
+#div1{
+    align-content: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: center;
+    background-color: white;
+    height: 60px;
+    width: 450px;
+    border-bottom: 1px solid rgb(179, 176, 176);
+}
+#first{
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-left: 12px;
+    border: 1px groove rgb(218, 210, 210);
+    margin-top: 15px;
+}
+#surname{
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-left: 6px;
+    border: 1px groove rgb(218, 210, 210);
+}
+#Mobile{
+    width: 415px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-left: 12px;
+    border: 1px groove rgb(218, 210, 210);
+    margin-top: 9px;
+}
+#password{
+    width: 415px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-left: 12px;
+    border: 1px groove rgb(218, 210, 210);
+    margin-top: 9px;
+}
+#date{
+    margin-top: 10px;
+    margin-left: 12px;
+    font-size: 14px;
+}
+#gender{
+    margin-top: 15px;
+    margin-left: 12px;
+    font-size: 14px;
+}
+#female{
+    width: 110px;
+    height: 35px;
+    font-size: 18px;
+    background-color: white;
+    margin-left: 12px;
+    align-content: center;
+    padding-left: 10px;
+    border: 1px groove rgb(218, 210, 210);
+    border-radius: 5px;
+}
+#male{
+    width: 110px;
+    height: 35px;
+    font-size: 18px;
+    background-color: white;
+    margin-left: 12px;
+    align-content: center;
+    padding-left: 10px;
+    border: 1px groove rgb(218, 210, 210);
+    border-radius: 5px;
+}
+#custom{
+    width: 110px;
+    height: 35px;
+    font-size: 18px;
+    background-color: white;
+    margin-left: 12px;
+    align-content: center;
+    padding-left: 10px;
+    border: 1px groove rgb(218, 210, 210);
+    border-radius: 5px;
+}
+#people{
+    margin-left: 12px;
+    font-size: 13px;
+    width: 415px;
+    height: fit-content;
+    margin-top: 9px;
+    color: rgb(88, 87, 87);
+}
+#By{
+    margin-left: 12px;
+    font-size: 13px;
+    width: 425px;
+    height: fit-content;
+    margin-top: 11px;
+    color: rgb(88, 87, 87);
+}
+.let{
+    text-decoration: none;
+}
+.let:hover{
+    color: red;
+    text-decoration: underline;
+}
+#you{
+    margin-left: 12px;
+    font-size: 13px;
+    width: 415px;
+    height: fit-content;
+    margin-top: 1px;
+    color: rgb(88, 87, 87);
+}
+#sub{
+    width: 170px;
+    height: 40px;
+    margin-left: 120px;
+    background-color: rgb(53, 173, 53);
+    border: 1px rgb(41, 148, 41);
+    border-radius: 5px;
+    margin-top: 20px;
+    font-weight: 700;
+    color: white;
+    font-size: 20px;
+}
+#sub:hover{
+    background-color: green;
+}
+#alr{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
